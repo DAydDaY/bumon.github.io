@@ -11,6 +11,10 @@ type: page
 
 ## 工具
 
+* [png2ico](https://cloudconvert.com/png-to-ico)
+
+    png转ico文件的网页，可以把图片转成网页的小图标，尺寸是16*16
+
 * [box-shadow generator](http://www.cssmatic.com/box-shadow)
 
     生成 box-shadow 的工具。

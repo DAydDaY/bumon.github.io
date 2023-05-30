@@ -135,6 +135,9 @@ baidu_tongji_id: xxxxxxxxxxxx
 google_analytics_id: UA-xxxxxxxx # google 分析追踪id
 ```
 
+<!-- https://analytics.google.com/analytics/web/#/p379053170/reports/intelligenthome?params=_u..nav%3Dmaui -->
+<!-- https://tongji.baidu.com/main/overview/10000554862/overview/index?siteId=19212803 -->
+
 ## Usage
 
 Welcome everyone to use this theme, this part shows introduction to use.
