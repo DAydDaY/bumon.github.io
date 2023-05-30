@@ -18,7 +18,9 @@ type: page
 ## 联系我
 
 * GitHub：[bumony](https://github.com/bumony)
-* email：bumon@foxmail.com
+* email：bumon@foxmail.com  
+* [即刻](https://web.okjike.com/):Bumon  
+
 <!-- * [Weibo](http://weibo.com/3115521wh)
 * [知乎](https://www.zhihu.com/people/gaohaoyang)
 * [Facebook](https://www.facebook.com/gaohaoyang.water)
