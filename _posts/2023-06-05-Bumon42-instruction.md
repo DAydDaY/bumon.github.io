@@ -69,7 +69,7 @@ https://nickcoutsos.github.io/keymap-editor/
 
 在[GitHub](https://github.com/)上注册一个账号，如果已有的话可跳过此步。国内可能网络状况不太好，会出现偶尔上不了的情况，如果遇到了多刷新试试或者使用代理软件及github访问加速之类的服务。
 
-![github图](http://tva1.sinaimg.cn/large/007c24l8gy1hfk44gh87cj31e90efk4i.jpg)
+![1.png](https://tva1.sinaimg.cn/large/007c24l8gy1hfk4hin2rsj31e90efk4i.jpg)
 
 ### 克隆此键盘的仓库
 
