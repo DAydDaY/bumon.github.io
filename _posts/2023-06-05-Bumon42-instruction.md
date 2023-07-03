@@ -69,20 +69,20 @@ https://nickcoutsos.github.io/keymap-editor/
 
 在[GitHub](https://github.com/)上注册一个账号，如果已有的话可跳过此步。国内可能网络状况不太好，会出现偶尔上不了的情况，如果遇到了多刷新试试或者使用代理软件及github访问加速之类的服务。
 
-![1.png](https://tva1.sinaimg.cn/large/007c24l8gy1hfk4hin2rsj31e90efk4i.jpg)
+![1.png](..\_imgs\2023-06-05-Bumon42-instruction\1.png)
 
 ### 克隆此键盘的仓库
 
 去到我的首页寻找仓库[DAydDaY](https://github.com/DAydDaY)/**[zmk-config](https://github.com/DAydDaY/zmk-config)**，点击 `Fork` 把仓库fork到自己的账号里，fork完应该会回到自己仓库里，再选择对应的键盘分支。
 
-![2.png](http://tva1.sinaimg.cn/large/007c24l8gy1hfk45z4gdgj31et0dkdnn.jpg)
+![2.png](..\_imgs\2023-06-05-Bumon42-instruction\2.png)
 
 
 ### 点击Actions启动该功能
 
 这里我早就启动了，所以没有截图，点开点个确定就行了。
 
-![3.png](http://tva1.sinaimg.cn/large/007c24l8gy1hfk46bwnjlj31xg0zftnr.jpg)
+![3.png](..\_imgs\2023-06-05-Bumon42-instruction\3.png)
 
 
 ### 在线编辑器修改
