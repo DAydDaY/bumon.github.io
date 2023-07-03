@@ -69,7 +69,7 @@ https://nickcoutsos.github.io/keymap-editor/
 
 在[GitHub](https://github.com/)上注册一个账号，如果已有的话可跳过此步。国内可能网络状况不太好，会出现偶尔上不了的情况，如果遇到了多刷新试试或者使用代理软件及github访问加速之类的服务。
 
-![1.png](..\_imgs\2023-06-05-Bumon42-instruction\1.png)
+![1.png](https://github.com/bumony/bumony.github.io/tree/master/_imgs/2023-06-05-Bumon42-instruction/1.png)
 
 ### 克隆此键盘的仓库
 
