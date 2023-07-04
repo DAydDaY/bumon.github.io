@@ -75,7 +75,7 @@ https://nickcoutsos.github.io/keymap-editor/
 
 去到我的首页寻找仓库[DAydDaY](https://github.com/DAydDaY)/**[zmk-config](https://github.com/DAydDaY/zmk-config)**，点击 `Fork` 把仓库fork到自己的账号里，fork完应该会回到自己仓库里，再选择对应的键盘分支。
 
-![2.png](..\imgs\2023-06-05-Bumon42-instruction\2.png)
+![2.png](https://cdn.jsdelivr.net/gh/bumony/bumony.github.io@master/imgs/2023-06-05-Bumon42-instruction/2.png)
 
 
 ### 点击Actions启动该功能
