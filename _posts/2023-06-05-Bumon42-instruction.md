@@ -69,7 +69,7 @@ https://nickcoutsos.github.io/keymap-editor/
 
 在[GitHub](https://github.com/)上注册一个账号，如果已有的话可跳过此步。国内可能网络状况不太好，会出现偶尔上不了的情况，如果遇到了多刷新试试或者使用代理软件及github访问加速之类的服务。
 
-![1.png](https://github.com/bumony/bumony.github.io/blob/master/imgs/2023-06-05-Bumon42-instruction/1.png)
+![1.png](https://cdn.jsdelivr.net/gh/bumony/bumony.github.io@master/imgs/2023-06-05-Bumon42-instruction/1.png)
 
 ### 克隆此键盘的仓库
 
@@ -82,7 +82,7 @@ https://nickcoutsos.github.io/keymap-editor/
 
 这里我早就启动了，所以没有截图，点开点个确定就行了。
 
-![3.png](..\imgs\2023-06-05-Bumon42-instruction\3.png)
+![3.png](https://cdn.jsdelivr.net/gh/bumony/bumony.github.io@master/imgs/2023-06-05-Bumon42-instruction/3.png)
 
 
 ### 在线编辑器修改
@@ -91,7 +91,7 @@ https://nickcoutsos.github.io/keymap-editor/
 
 直接找到对应的文件，进入之后点击编辑
 
-![4.png](http://tva1.sinaimg.cn/large/007c24l8gy1hfk4asgi27j31880igjyt.jpg)
+![4.png](https://cdn.jsdelivr.net/gh/bumony/bumony.github.io@master/imgs/2023-06-05-Bumon42-instruction/4.png)
 
 
 以 `bumon42` 为例子，选好`bumon42` 的分支之后，进入到下列目录，主要是修改2个文件： `Bumon42.conf` 和 `Bumon42.keymap` 
@@ -108,12 +108,12 @@ https://nickcoutsos.github.io/keymap-editor/
 
 这个其实是python写的， `#` 是注释符号， `#` 后面还有空格，取消注释的时候不要漏了空格。对应的开关功能见代码上的注释（如下所示）
 
-![5.png](http://tva1.sinaimg.cn/large/007c24l8gy1hfk4asf6evj319p0hcqa2.jpg)
+![5.png](https://cdn.jsdelivr.net/gh/bumony/bumony.github.io@master/imgs/2023-06-05-Bumon42-instruction/5.png)
 
 
 编辑完之后，往下滚，输入commit信息提交，当然不输入也没关系。
 
-![6.png](http://tva1.sinaimg.cn/large/007c24l8gy1hfk4at0j1fj317y0cd0yi.jpg)
+![6.png](https://cdn.jsdelivr.net/gh/bumony/bumony.github.io@master/imgs/2023-06-05-Bumon42-instruction/6.png)
 
 
 #### .keymap 键码
@@ -123,7 +123,7 @@ https://nickcoutsos.github.io/keymap-editor/
 > 先说一下怎么查阅[手册](https://zmk.dev/docs/codes/)
 > 
 
-![7.png](http://tva1.sinaimg.cn/large/007c24l8gy1hfk4asepdfj315h0ofgzl.jpg)
+![7.png](https://cdn.jsdelivr.net/gh/bumony/bumony.github.io@master/imgs/2023-06-05-Bumon42-instruction/7.png)
 
 
 描述下面有and的，如 `a and A` 指的是是否按住 `shift` 时按下的操作
@@ -141,7 +141,7 @@ https://nickcoutsos.github.io/keymap-editor/
 
 `&lt`  后接前面define的层和Names，如短按为windows键,长按为FN层为`&lt FN RGUI` 
 
-![8.png](http://tva1.sinaimg.cn/large/007c24l8gy1hfk4asdv5aj309204qmxv.jpg)
+![8.png](https://cdn.jsdelivr.net/gh/bumony/bumony.github.io@master/imgs/2023-06-05-Bumon42-instruction/8.png)
 
 
 须知：`&lt`  只能顺着箭头方向“往上提升”，如果想从5层 `&lt`  到3层是不可行的。
@@ -156,7 +156,7 @@ https://nickcoutsos.github.io/keymap-editor/
 
 如下图箭头所指双引号中的内容就是键盘名称，名称不能太长，中文行不行我还没试过。
 
-![9.png](http://tva1.sinaimg.cn/large/007c24l8gy1hfk4ase41uj31e50mz456.jpg)
+![9.png](https://cdn.jsdelivr.net/gh/bumony/bumony.github.io@master/imgs/2023-06-05-Bumon42-instruction/9.png)
 
 
 ---
@@ -165,10 +165,10 @@ https://nickcoutsos.github.io/keymap-editor/
 
 如果没有语法错误的话，成功编译大概会花费2分钟的时间，在 `Actions` 选项卡下找到最新的工作任务，点进去下载固件吧！
 
-![10.png](http://tva1.sinaimg.cn/large/007c24l8gy1hfk4ase3huj31av0k511g.jpg)
+![10.png](https://cdn.jsdelivr.net/gh/bumony/bumony.github.io@master/imgs/2023-06-05-Bumon42-instruction/10.png)
 
 
-![11.png](http://tva1.sinaimg.cn/large/007c24l8gy1hfk4asokz1j315r0khq77.jpg)
+![11.png](https://cdn.jsdelivr.net/gh/bumony/bumony.github.io@master/imgs/2023-06-05-Bumon42-instruction/11.png)
 
 
 下载是一个压缩包，请解压它获取`zmk.uf2`!
@@ -177,12 +177,12 @@ https://nickcoutsos.github.io/keymap-editor/
 
 ZMK的烧录固件真的值得一夸，用usb连接电脑， `fn` + `/?` 键，就会弹出一个可移动设备，把前面得到的 `zmk.uf2` 文件直接拖进去即可完成烧录！如果`fn` + `/?` 无效或者键码暂时失效，请通过6颗螺丝拆下pcb（注意连接的电线），然后在pcb背面下方有一个小的实体的reset按钮，可通过双击此按钮来进入烧录模式（这一步应该不用配图了吧）
 
-![12.jpg](http://tva1.sinaimg.cn/large/007c24l8gy1hfk4asekkvj30xc0xc0tg.jpg)
+![12.jpg](https://cdn.jsdelivr.net/gh/bumony/bumony.github.io@master/imgs/2023-06-05-Bumon42-instruction/12.png)
 
 
 # keymap-editor使用教程
 
-![13.png](http://tva1.sinaimg.cn/large/007c24l8gy1hfk4asmhiaj30ol0gwq7w.jpg)
+![13.png](https://cdn.jsdelivr.net/gh/bumony/bumony.github.io@master/imgs/2023-06-05-Bumon42-instruction/13.png)
 
 
 通过[keymap-editor](https://nickcoutsos.github.io/keymap-editor/)的网站，绑定自己的github账号后，我们可以在左上角的下拉框中选择自己的对应的仓库和分支，即可通过页面来修改keymap值。
@@ -191,7 +191,7 @@ ZMK的烧录固件真的值得一夸，用usb连接电脑， `fn` + `/?` 键，�
 
 之前已经fork过仓库的朋友们，可通过[该文章](https://zhuanlan.zhihu.com/p/291845721)内描述的方法来update一下自己的仓库！
 
-![14.png](http://tva1.sinaimg.cn/large/007c24l8gy1hfk4asekm8j30cj05174l.jpg)
+![14.png](https://cdn.jsdelivr.net/gh/bumony/bumony.github.io@master/imgs/2023-06-05-Bumon42-instruction/14.png)
 
 
 修改完成后，和github一样需要commit，commit之后可通过右方蓝色的按钮直达固件下载页，等待固件完成编译后，即可通过上述同样的步骤完成键盘新固件的烧录。到此，享受你的键盘吧！😆
