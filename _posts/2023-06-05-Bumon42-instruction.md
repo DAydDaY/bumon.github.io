@@ -177,7 +177,7 @@ https://nickcoutsos.github.io/keymap-editor/
 
 ZMK的烧录固件真的值得一夸，用usb连接电脑， `fn` + `/?` 键，就会弹出一个可移动设备，把前面得到的 `zmk.uf2` 文件直接拖进去即可完成烧录！如果`fn` + `/?` 无效或者键码暂时失效，请通过6颗螺丝拆下pcb（注意连接的电线），然后在pcb背面下方有一个小的实体的reset按钮，可通过双击此按钮来进入烧录模式（这一步应该不用配图了吧）
 
-![12.jpg](https://cdn.jsdelivr.net/gh/bumony/bumony.github.io@master/imgs/2023-06-05-Bumon42-instruction/12.png)
+![12.jpg](https://cdn.jsdelivr.net/gh/bumony/bumony.github.io@master/imgs/2023-06-05-Bumon42-instruction/12.jpg)
 
 
 # keymap-editor使用教程
