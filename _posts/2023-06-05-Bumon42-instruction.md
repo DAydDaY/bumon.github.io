@@ -57,7 +57,7 @@ zmk进行了一次大更新后，需要修改来的文件结构等操作才可�
 
 目前zmk已有可视化修改代码的网页支持，但仍然需要github的action来编译构建固件，不论如何对于小白的改键难度和成本降低了不少，感谢开源。相关说明已经补充，相关网站在此👇
 
-https://nickcoutsos.github.io/keymap-editor/
+[可视化网址](https://nickcoutsos.github.io/keymap-editor/)
 ---
 ## 前言
 
