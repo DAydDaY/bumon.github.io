@@ -3,7 +3,7 @@ layout: post
 title:  "键盘|Bumon42使用说明"
 date:   2023-06-05 17:01:58 +0800
 categories: keyboards
-tags: keyboards, instructions, goose
+tags: keyboards instructions goose
 author: Bumon
 mathjax: true
 ---
