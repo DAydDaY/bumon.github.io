@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "开发|使用python脚本定时请求yarn集群的资源信息"
-date:   2023-07-04 16:12:33+0800
+date:   2023-07-04 16:12:33 +0800
 categories: work
 tags: python dev bigdata log crontab
 author: Bumon
